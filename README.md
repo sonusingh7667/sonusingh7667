@@ -1,169 +1,32 @@
-<p align="center">
-  <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">
-    <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  GitHub Profile README Generator
-</h1>
+<h1 align="center">Hi 👋, I'm sonusingh7667</h1>
+<h3 align="center">Detail-oriented B.Tech Computer Science student specializing in Information Technology with a keen interest in Full-Stack Mern Developer. Proficient in HTML, CSS, JavaScript, Core Java, and C languages. Currently exploring and enhancing skills in frontend development while maintaining a strong passion for Technology...</h3>
 
-<p align="center">
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
-<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
-<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
-</a>
-<a href="https://discord.gg/HHMs7Eg" target="blank">
-<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
-</a>
-</p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonusingh7667" alt="sonusingh7667" /></a> </p>
 
-<p align="center">
-    <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">View Demo</a>
-    ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Request Feature</a>
-</p>
+- 🔭 I’m currently working on **React**
 
-<p align="center">
-<i>Loved the tool? Please consider <a href="https://paypal.me/rahuldkjain/10">donating</a>  💸 to help it improve!</i>
-</p>
+- 🌱 I’m currently learning **Data Structures And Algorithems**
 
-<p align="center">
-<a href="https://www.paypal.me/rahuldkjain"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
-</a>
-<a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
-</a>
-<a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
-</p>
+- 👯 I’m looking to collaborate on **Frontend Projects**
 
-#### Tired of editing GitHub Profile README with new features?
+- 👨‍💻 All of my projects are available at [https://github.com/sonusingh7667](https://github.com/sonusingh7667)
 
-This tool provides an easy way to create a GitHub profile readme with the latest add-ons such as `visitors count`, `github stats`, etc.
+- 💬 Ask me about **DSA, Core java, HTML, CSS, JavaScript,React...t**
 
-## 🚀 Demo
+- 📫 How to reach me **surajsinghbxr09@gmail.com**
 
-<a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">
-<img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
-</a>
-
-Try the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
-
-## 🧐 Features
-
-Just fill in the details such as `Name`, `Tagline`, `Dev Platforms Username`, `Current Work`, `Portfolio`, `Blog`, etc. with a minimal UI.
-
-- **Uniform Dev Icons**
-
-- **Uniform Social Icons**
-
-- **Visitors Counter Badge**
-
-- **GitHub Profile Stats Card**
-
-- **GitHub Top Skills**
-
-- **GitHub Streak Stats**
-
-- **Dynamic Dev(.)to Blogs** (GitHub Action)
-
-- **Dynamic Medium Blogs** (GitHub Action)
-
-- **Dynamic Personal Blogs from RSS Feed** (GitHub Action)
-
-- **Wakatime Stats** [contribute](https://github.com/rahuldkjain/github-profile-readme-generator/issues/115)
-
-- **Buy Me A Coffee button**
-
-Click on `Generate README` to get your README in `markdown`.
-You can preview the README too.
-
-## 🛠️ Installation Steps
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
-```
-
-2. Change the working directory
-
-```bash
-cd github-profile-readme-generator
-```
-
-3. Install dependencies
-
-```bash
-npm install
-```
-
-4. Run the app
-
-```bash
-npm start
-```
-
-🌟 You are all set!
-
-## 🍰 Contributing
-
-Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request](https://github.com/rahuldkjain/github-profile-readme-generator/compare).
-
-Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
-
-## 💻 Built with
-
-- [Gatsby](https://www.gatsbyjs.com/)
-- [Tailwind CSS](https://tailwindcss.com/): for styling
-- [GSAP](https://greensock.com/gsap/): for small SVG Animations
-
-## 🙇 Special Thanks
-
-- [Anurag Hazra](https://github.com/anuraghazra) for amazing [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- [Anton Komarev](https://github.com/antonkomarev) for super cool [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-- [Gautam Krishna R](https://github.com/gautamkrishnar) for the awesome [blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-- [Jonah Lawrence](https://github.com/DenverCoder1) for the incredible [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [Julien Monty](https://github.com/konpa) for super useful [devicon](https://github.com/konpa/devicon)
-- [Eliot Sanford](https://github.com/techieeliot) for adding hashnode as a blog input
-
-## 🙇 Sponsors
-
-- [Scott C Wilson](https://github.com/scottcwilson) donated the first-ever grant to this tool. A big thanks to him.
-- [Max Schmitt](https://github.com/mxschmitt) loved the tool and showed support with his donation. Thanks a lot.
-- [Aadit Kamat](https://github.com/aaditkamat) find the tool useful and showed support with his donation. A big thanks to him.
-- [Jean-Michel Fayard](https://github.com/jmfayard) used the generator to create his GitHub Profile README and he loved it. Thanks to him for showing support to the tool with the donation.
-
-## 🙏 Support
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.paypal.me/rahuldkjain/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
-</a>
-<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator">
-<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator" alt="tweet github profile readme generator"/>
-</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sonu-singh-993b17292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sonu-singh-993b17292/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/sonu_webdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sonu_webdev/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@sonusurajofficial5969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sonusurajofficial5969" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-  <a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
-  </a>
-  <a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<hr>
-<p align="center">
-Developed with ❤️ in India 🇮🇳 
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonusingh7667&show_icons=true&locale=en&layout=compact" alt="sonusingh7667" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonusingh7667&show_icons=true&locale=en" alt="sonusingh7667" /></p>
