@@ -1,4 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sonu Singh</h1>
+const intro = {
+  name:"Sonu Singh",
+  type:"Programmer",
+  inProgress:"MERN STACK",
+  programming:["Core Java","DSA","javaScript","html5","css"],
+  tools:[React,Tailwind,BootStrap,NodeJs,ExpressJs],
+  proficient:"DSA","javaScript","React"
+  learnerType:"self learner",
+};
 <h3 align="center">Detail-oriented B.Tech Computer Science student specializing in Information Technology with a keen interest in Full-Stack Mern Developer. Proficient in HTML, CSS, JavaScript, Core Java, and C languages. Currently exploring and enhancing skills in frontend development while maintaining a strong passion for Technology...</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
