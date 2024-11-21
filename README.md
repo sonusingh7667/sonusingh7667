@@ -1,6 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sonu Singh</h1>
 <h3 align="center">Detail-oriented B.Tech Computer Science student specializing in Information Technology with a keen interest in Full-Stack Mern Developer. Proficient in HTML, CSS, JavaScript, Core Java, and C languages. Currently exploring and enhancing skills in frontend development while maintaining a strong passion for Technology...</h3>
 
+```javascript
+const intro = {
+  name: "Sonu Singh",
+  type: "Programmer",
+  inProgress: "Backend",
+  programming: ["JavaScript", "HTML5", "CSS", "C", "Java", "Python"],
+  tools: ["React", "Tailwind", "BootStrap", "Node.js", "Express.js"],
+  proficient: "JavaScript",
+  onGoingWorks: {
+    course: "Node.js",
+    project: [
+      { name: "Moderation-Bot", description: "A discord moderation bot" },
+      { name: "P2P-WebApplication", description: "A learning web application listing all the features of an edu web, with lots of additional functionality." }
+    ]
+  },
+  learnerType: "Self-learner"
+};
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonusingh7667" alt="sonusingh7667" /></a> </p>
@@ -33,20 +51,3 @@
 
 <h3 align="left">My Journey as a Developer:</h3>
 
-```javascript
-const intro = {
-  name: "Sonu Singh",
-  type: "Programmer",
-  inProgress: "Backend",
-  programming: ["JavaScript", "HTML5", "CSS", "C", "Java", "Python"],
-  tools: ["React", "Tailwind", "BootStrap", "Node.js", "Express.js"],
-  proficient: "JavaScript",
-  onGoingWorks: {
-    course: "Node.js",
-    project: [
-      { name: "Moderation-Bot", description: "A discord moderation bot" },
-      { name: "P2P-WebApplication", description: "A learning web application listing all the features of an edu web, with lots of additional functionality." }
-    ]
-  },
-  learnerType: "Self-learner"
-};
