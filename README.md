@@ -1,19 +1,27 @@
 <h1 align="center">Hi 👋, I'm Sonu Singh</h1>
 
-<h3 align="center">Software Developer || DSA in java || Front end Developer </h3>
+<h3 align="center">Software Developer || proficient In DSA || Front end Developer </h3>
 
 ```JavaScript
 const intro = {
-  name:"Sonu Singh",
+  name:Sonu Singh,
+  email: "surajsinghbxr09@gmail.com",
   type:"Programmer",
+  proficient In: "Data Structures & Algorithms",
   inProgress:"Frontend",
-  programming:["javaScript","html5","css","DSA","java","python"],
+  programming:["javaScript","mongodb","html5","css","DSA","java","python"],
   tools:[React,Tailwind,BootStrap],
-  proficient:"DSA in java && JavaScript and React",
-  onGoingWorks:{
-    course:"react.js",
-  learnerType:"self learner",
-};
+  education:
+  {
+    "Self-Taught Programmer",
+    "B.Tech in Computer Science and Information Technology",
+  }
+  fields_of_interests:
+   {
+    "Web Development",
+    "MERN Stack Developer",
+    "Data Structures & Algorithms",
+   };
  ```
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
