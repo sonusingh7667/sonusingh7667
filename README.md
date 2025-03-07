@@ -4,8 +4,9 @@
 
 ```JavaScript
 const intro = {
-  name:Sonu Singh,
+  name: "Sonu Singh",
   email: "surajsinghbxr09@gmail.com",
+  leetcode : "leetcode.com/sonusingh99"
   type:"Programmer",
   proficient In: "Data Structures & Algorithms",
   inProgress:"Frontend",
@@ -14,7 +15,7 @@ const intro = {
   education:
   {
     "Self-Taught Programmer",
-    "B.Tech in Computer Science and Information Technology",
+    "Bachelor Of Technology In Computer Science and Information Technology ",
   }
   fields_of_interests:
    {
